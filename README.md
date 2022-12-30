@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-This repository contains code developed at 42 Porto Cursus, if you are looking for 42 Porto Piscine codes, <a href="https://github.com/jotavare/42-piscine">click here</a>.
+This repository contains code developed at 42 Porto Cursus, if you are looking for 42 Porto Piscine, <a href="https://github.com/jotavare/42-piscine">click here</a>.
 </p>
 
 </br>
