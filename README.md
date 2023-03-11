@@ -1,25 +1,20 @@
-<h1 align="center">
-	42 Cursus
-</h1>
-
 <p align="center">
-
+  <img src="https://github.com/jotavare/jotavare/blob/main/42/banner/42_common_core_banner.png">
 </p>
 
 <p align="center">
-This repository contains code developed at 42 Porto Cursus, if you are looking for 42 Porto Piscine, <a href="https://github.com/jotavare/42-piscine">click here</a>.
+	<img src="https://img.shields.io/badge/status-ongoing-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/badge/score-42%20%2F%2042-success?color=%2312bab9&style=flat-square" />
+	<img src="https://img.shields.io/github/last-commit/jotavare/42-common-core?color=%2312bab9&style=flat-square" />
 </p>
 
-</br>
+## ABOUT
+This repository contains code developed at 42 Porto Common Core, if you are looking for 42 Porto Piscine, <a href="https://github.com/jotavare/42-piscine">click here</a>.
+</p>
 
 <p align="center">
   <img src="https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=21&coalitionId=293" />
 </p>
-
-
-##
-</br>
-<div align="center">
 
 | Project | Rank | Status | Language | Score | Activity |
 | :---: | :---: | :---: | :---: | :---: | :---: |
