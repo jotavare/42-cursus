@@ -16,10 +16,11 @@
 </p>
 
 ## ABOUT
-The 42 Common Core was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
+This repository contains code developed at **42 Porto Common Core**, from **02/11/2022** to **present day**. </br>
 
-This repository contains code developed at 42 Porto Common Core, from 02/11/2022 to present day. </br>
-If you are looking for code related to the 42 Porto Piscine, <a href="https://github.com/jotavare/42-piscine">click here</a>.
+The **42 Common Core** was developed in Paris in 2013 and is continually evaluated and developed. Students progress through the program by completing projects and earning points to level up, making the learning experience feel like a game.
+
+If you are looking for code related to the **42 Porto Piscine**, <a href="https://github.com/jotavare/42-piscine">click here</a>.
 
 ## BADGE
 <p align="center">
