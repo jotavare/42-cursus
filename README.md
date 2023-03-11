@@ -8,14 +8,25 @@
 	<img src="https://img.shields.io/github/last-commit/jotavare/42-common-core?color=%2312bab9&style=flat-square" />
 </p>
 
+<p align="center">
+	<a href="#about">About</a> •
+	<a href="#badge">Badge</a> •
+	<a href="#projects">Projects</a> •
+	<a href="#license">License</a>
+</p>
+
 ## ABOUT
+The 42 common core was designed in Paris in 2013 and is always under evaluation and development. Each student progresses by developing projects, winning points to level up, as if it was a game.
+
 This repository contains code developed at 42 Porto Common Core, if you are looking for 42 Porto Piscine, <a href="https://github.com/jotavare/42-piscine">click here</a>.
 </p>
 
+## BADGE
 <p align="center">
   <img src="https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=21&coalitionId=293" />
 </p>
 
+## PROJECTS
 | Project | Rank | Status | Language | Score | Activity |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | [libft](https://github.com/jotavare/libft) | 00 | <img src="https://img.shields.io/badge/status-done-success" /> |<img src="https://img.shields.io/github/languages/top/jotavare/libft" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/libft" /> |
@@ -24,4 +35,8 @@ This repository contains code developed at 42 Porto Common Core, if you are look
 | [born2beroot](https://github.com/jotavare/born2beroot) | 01 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/github/languages/top/jotavare/born2beroot" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/born2beroot" /> |
 | [minitalk](https://github.com/jotavare/minitalk) | 02 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/github/languages/top/jotavare/minitalk" /> | <img src="https://img.shields.io/badge/score-125%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/jotavare/minitalk" /> |
 | [so_long](https://github.com/jotavare/so_long) | 02 | <img src="https://img.shields.io/badge/status-registered-green" /> | <img src="https://img.shields.io/github/languages/top/jotavare/so_long" /> | <img src="https://img.shields.io/badge/score-not%20submitted-red" /> | <img src="https://img.shields.io/github/last-commit/jotavare/so_long" /> |
-</div>
+
+## LICENSE
+<p>
+This work is published under the terms of <a href="https://github.com/jotavare/jotavare/blob/main/LICENSE">42 Unlicense</a>.
+</p>
