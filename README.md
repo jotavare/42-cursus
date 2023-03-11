@@ -22,7 +22,7 @@ This repository contains code developed at 42 Porto Common Core, if you are look
 </p>
 
 ## BADGE
-<p align="center">
+<p>
   <img src="https://badge42.vercel.app/api/v2/clbvkpdqt00110fl38ozdkwj4/stats?cursusId=21&coalitionId=293" />
 </p>
 
